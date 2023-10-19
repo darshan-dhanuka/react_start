@@ -1,1 +1,11 @@
-ReactDOM.render(<h1>Hello, everyone!</h1> , document.getElementById("root"));
+function MainContent(){
+    return (
+        <h1>Hi, This is my first React Project</h1>
+    )
+}
+
+
+ReactDOM.render(<div>
+                    <MainContent />
+                </div> , 
+document.getElementById("root"));
