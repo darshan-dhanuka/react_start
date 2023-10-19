@@ -1,0 +1,3 @@
+Why React ? 
+
+Composable code - smaller components work together to make large application . Code becomes maintainable and flexible.
