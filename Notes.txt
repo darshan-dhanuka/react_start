@@ -1,3 +1,7 @@
 Why React ? 
 
 Composable code - smaller components work together to make large application . Code becomes maintainable and flexible.
+
+Declarative code - Dont need to write lengthy JS code. React handles most part . 
+
+Great community - Maintained by Facebook

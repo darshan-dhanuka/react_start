@@ -1,6 +1,6 @@
 function MainContent(){
     return (
-        <h1>Hi, This is my first React Project</h1>
+        <h1 className="header">Hi, This is my first React Project</h1>
     )
 }
 
